@@ -5,3 +5,4 @@ This code was something I made in 2017 where I was exploring candlestick pattern
 
 I have three versions to graph BTC-USD in the code, either to analyze candlestick patterns, trends, volume/price indicators, and more. Feel free to poke or modify as necessary.
 
+This work was inspired by https://www.quantopian.com/posts/plot-candlestick-charts-in-research#584a2e084c290d001500022e
